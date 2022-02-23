@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/retraitvie/static/css/main.3064b548.css",
+    "main.js": "/retraitvie/static/js/main.cb86f654.js",
+    "index.html": "/retraitvie/index.html",
+    "main.3064b548.css.map": "/retraitvie/static/css/main.3064b548.css.map",
+    "main.cb86f654.js.map": "/retraitvie/static/js/main.cb86f654.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3064b548.css",
+    "static/js/main.cb86f654.js"
+  ]
+}
